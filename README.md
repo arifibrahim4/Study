@@ -1,2 +1,2 @@
 # Study
-New Learning's examples
+random learning and code snippet
